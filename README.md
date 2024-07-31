@@ -50,9 +50,7 @@ Welcome to the `OOPs-In-Cpp` repository! This repository is dedicated to explori
 11. [**OOPS-Homework-I.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPS-Homework-I.zip) - A zip archive containing all homework assignments for OOPs Homework I.
 12. [**OOPs-Homework-Level-II.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPs-Homework-Level-II.zip) - A zip archive containing all homework assignments for OOPs Homework Level II.
 13. [**OOPs-Level-I.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPs-Level-I.zip) - A zip archive containing all files for OOPs Level I.
-14. [**OOPs-Level-II.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPs-Level-II.zip) - A zip archive containing all files for
-
- OOPs Level II.
+14. [**OOPs-Level-II.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPs-Level-II.zip) - A zip archive containing all files for OOPs Level II.
 15. [**OOPs-Level-III.zip**](https://github.com/dpvasani/OOPs-In-Cpp/blob/main/OOPs-Level-III.zip) - A zip archive containing all files for OOPs Level III.
 
 ## Leetcode
